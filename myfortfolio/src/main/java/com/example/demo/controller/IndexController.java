@@ -1,6 +1,5 @@
 package com.example.demo.controller;
 
-import java.io.File;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
