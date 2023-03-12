@@ -1,0 +1,76 @@
+@charset "UTF-8";
+*{
+	box-sizing: border-box;
+	text-decoration: none;
+	color: #000;
+}
+.viewmain{
+	width: 100%;
+	margin: 0 auto;
+	padding: 50px 270px 0;
+	display: inline-block;
+}
+.viewmain h1{
+	font-size: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.table_view{
+	margin: 0 auto;
+	width: 100%;
+}
+.table_view tr:first-child{
+	border-top: 2px solid #000;
+}
+.table_view tr{
+	border-bottom: 1px solid #8e8f90;
+}
+.table_view tr th,.table_view tr td{
+	padding: 7px 20px;
+}
+.table_view tr th{
+	background-color: #d8eafe;
+	font-size: 13px;
+}
+.last_td{
+	height: 180px;
+	width: 600px;
+}
+.section_com{
+	border: 1px solid #000;
+	padding: 3px;
+	font-size: 13px;
+	background-color: #e2e5e8;
+	border-radius: 3px;
+}
+.btn{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.btn input {
+	margin: 0 8px;
+}
+.manager{
+	font-size: 18px;
+	margin: 10px 0;
+}
+.comment{
+	margin-bottom: 50px;
+}
+.commentlist{
+	border-bottom: 1px solid #000;	
+	padding: 15px 10px;
+	background-color: #f0f1f7;
+}
+.commentlist div{
+	margin-bottom: 7px;
+}
+.commentlist div a{
+	border: 1px solid #000;
+	padding: 3px;
+	font-size: 13px;
+	background-color: #fff;
+	border-radius: 3px;
+}
