@@ -197,7 +197,7 @@
 									</div>
 								</div>
 								<div class="section4Btn">
-									<a href=""><i class="xi-github"></i>GitHub</a>
+									<a href="https://github.com/ParkSeonDoo/portfolio.git" target="_blank"><i class="xi-github"></i>GitHub</a>
 								</div>
 							</div>
 						</div>
@@ -216,7 +216,7 @@
 									</div>
 								</div>
 								<div class="section4Btn">
-									<a href="https://github.com/ParkSeonDoo/healthing.git"><i class="xi-github"></i>GitHub</a>
+									<a href="https://github.com/ParkSeonDoo/healthing.git" target="_blank"><i class="xi-github"></i>GitHub</a>
 								</div>
 							</div>
 						</div>
